@@ -82,3 +82,6 @@ Aspiring Data Analyst | Excel | HR Analytics | Data Visualization
 ## License and Data Usage
 
 Use this workbook for educational and portfolio purposes. Confirm the source and applicable license of the underlying dataset before redistributing the data.
+
+<img width="2800" height="1308" alt="239720290-0a42d202-3eea-4453-8d70-9939f653f664" src="https://github.com/user-attachments/assets/02db4714-ee50-4b28-835a-e0fe74278c10" />
+
