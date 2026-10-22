@@ -75,7 +75,7 @@ This project analyzes an employee HR dataset for learning and portfolio demonstr
 
 ## Author
 
-**[Your Name]**
+**[MAVEEN G]**
 
 Aspiring Data Analyst | Excel | HR Analytics | Data Visualization
 
